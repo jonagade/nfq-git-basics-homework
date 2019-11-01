@@ -7,6 +7,7 @@ class Vegetable {
     var $color;
     var $some;
     var $same;
+    var $same1;
 
     function __construct($edible, $color="green")
     {
