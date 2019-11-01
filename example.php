@@ -7,6 +7,8 @@ class Vegetable {
     var $color;
     var $some;
     var $same;
+    var $rhdfhtdh;
+    var $dhdtghdgh;
     var $fdhdgshdfsh;
     var $fgjfgjfg;
     var $fdhsdhdth;
