@@ -8,6 +8,9 @@ class Vegetable {
     var $some;
     var $same;
     var $fdhdgshdfsh;
+    var $fgjfgjfg;
+    var $fdhsdhdth;
+    var $fhdghdgh;
     var $fdfdhdfhd;
     var $fhgdfhdfh;
 
