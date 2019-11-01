@@ -6,6 +6,8 @@ class Vegetable {
     var $edible;
     var $color;
     var $some;
+    var $same;
+    var $sum;
 
     function __construct($edible, $color="green")
     {
